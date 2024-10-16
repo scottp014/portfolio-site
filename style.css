@@ -437,3 +437,9 @@ footer {
 footer p {
   text-align: center;
 }
+
+.project-img-weather {
+  border-radius: 0.5rem;
+  width: 400px;
+  height: 190px;
+}
